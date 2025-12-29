@@ -4,7 +4,7 @@ Documenting my journey learning web development, and key programming fundamental
 
 Day 1:
 
-- Learned elements like <button>, <p>, <a href = ""  target = "_blank"> (attribute: this can link other websites. set href equal to link. Target just sends us to the link but in another tab) 
+- Learned elements like <button>, <p>, <a> href = ""  target = "_blank" (attribute: this can link other websites. set href equal to link. Target just sends us to the link but in another tab) 
 
 - Learned about CSS <style>
 - Learned about class in elements
