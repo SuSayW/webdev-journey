@@ -1,0 +1,39 @@
+p{
+  margin: 0 0 10px 10px;
+}
+
+.name{
+  text-align: center;
+  width:100px;
+  height: 15px;
+  border-radius: 2px;
+  padding: 3px 5px 3px 5px;
+  margin: 0 0 0 3px;
+}
+
+.email{
+  display: block;
+  margin: 5px 5px 5px 3px;
+  width: 228px;
+  height: 20px;
+  border-radius: 2px;
+}
+
+.signup-button{
+  background-color: rgb(0,120, 199);
+  border-radius: 5px;
+  border: none;
+  color: white;
+  margin: 5px 0 0 70px;
+  padding: 10px 20px 10px 20px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.signup-button:hover{
+  opacity: 0.6;
+}
+
+.signup-button:active{
+  opacity:0.3;
+}
