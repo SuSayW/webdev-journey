@@ -18,3 +18,10 @@ Day 2:
 - Made silly mistakes like spelling errors
 - learned how to add fonts from google.
 
+Day 3:
+
+- Learned about images, text boxes, check boxes, and attributes
+- Learned about display element: in-line block element, block element, and in-line element
+- Learned about the div element (basically a container)
+
+
