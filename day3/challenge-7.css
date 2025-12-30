@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+.profiles{
+  display: inline-block;
+  background-color: lightgrey;
+  vertical-align: top;
+  margin: 0 5px 0 5px;
+  padding: 0 0 20px 0;
+  border: 5px gray;
+  height: 300px;
+}
+
+.pro-pics{
+  height:150px;
+}
+.name{
+  font-weight: bold;
+}
+.mutuals{
+  color:skyblue;
+}
