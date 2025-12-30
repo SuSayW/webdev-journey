@@ -12,9 +12,9 @@ Day 1:
 
 Day 2: 
 
--Learned about different font styles, padding + margins. 
+- Learned about different font styles, padding + margins. 
 - Learned about the strong, u, and span element.
--Text alignment, colors, etc. 
+- Text alignment, colors, etc. 
 - Made silly mistakes like spelling errors
 - learned how to add fonts from google.
 
