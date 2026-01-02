@@ -25,3 +25,12 @@ Day 3:
 - Learned about the div element (basically a container)
 
 
+Day 4:
+
+- Learned about CSS grid. (I struggled to understand it at first, however, with guidance and a little bit of testing, I was able to grasp the concept and how it worked)
+- justify-content, align-content, justify-items, align-items.
+- https://youtu.be/EiNiSFIPIQE?si=7tS9wCS_KL3mYuGI -> @slayingthedragon  (This guy's video helped me a lot and I was able to better understand it)
+
+
+
+
