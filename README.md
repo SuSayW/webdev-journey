@@ -29,6 +29,13 @@ Day 4:
 
 - Learned about CSS grid. (I struggled to understand it at first, however, with guidance and a little bit of testing, I was able to grasp the concept and how it worked)
 - justify-content, align-content, justify-items, align-items.
+
+Day 5:
+
+-Learned about flexbox and the many properties.
+- Added a folder to day 5 of a nav bar using flex.
+- Played around with transitions and tranformation.
+
 - https://youtu.be/EiNiSFIPIQE?si=7tS9wCS_KL3mYuGI -> @slayingthedragon  (This guy's video helped me a lot and I was able to better understand it)
 
 
