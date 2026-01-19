@@ -38,6 +38,10 @@ Day 5:
 
 - https://youtu.be/EiNiSFIPIQE?si=7tS9wCS_KL3mYuGI -> @slayingthedragon  (This guy's video helped me a lot and I was able to better understand it)
 
+UPDATE:
+
+I haven't been updating this much as I have not been learning or working on HTML and CSS. Unfortunately, I've been working on classwork for school and it has been taking a toll. However, I will make sure to update this sooner and continue from where I left off.
+
 
 
 
