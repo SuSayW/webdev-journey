@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Say's Tutor Feedback Form</title>
+</head>
+<body>
+  <form>
+    <h1> Say's Tutoring Experience Feedback Form </h1>
+    <p> I am grateful for the feedback and review. </p>
+
+    <fieldset>
+      <legend>
+        Personal Information
+      </legend>
+      <label for="full-name"> Name: </label>
+      <input type ="text" id="full-name" name="name" placeholder = "ex: John Doe">
+      
+      <label for="email"> Email (required): </label>
+      <input type="email" id="email" name="email" required placeholder="example@email.com">
+      
+      <label for="age"> Age (optional):</label>
+      <input type="number" id="age" name="age">
+    </fieldset>
+    
+    
+
+    <fieldset>
+      <legend>
+        Recommendation
+      </legend>
+      <label for="option-yes"> Yes </label>
+      <input type="radio" id="option-yes" name="rec-choice" value="yes">
+
+      <label for = "option-no"> No </label>
+      <input type="radio" id="option-no" name="rec-choice" value="no">
+    </fieldset>
+
+    <fieldset> 
+      <legend> Why Choose Me?</legend>
+      
+      <p><strong> Why did you choose me for tutoring services? (check all that apply)</strong></p>
+      
+      <label for ="price"> Price </label>
+      <input type="checkbox" id="price" name="choice" value="price">
+
+      <label for ="reference"> Peer-Reference </label>
+      <input type="checkbox" id="reference" name="choice" value="reference">
+
+      <label for ="reviews"> Good Reviews </label>
+      <input type="checkbox" id="reviews" name="choice" value="reviews">
+
+      <label for ="ads"> Advertisement </label>
+      <input type="checkbox" id="ads" name="choice" value="ads">
+
+      <label for ="other"> Other </label>
+      <input type="checkbox" id="other" name="choice" value="other">
+    </fieldset>
+    <fieldset>
+      <legend>
+        Rating
+      </legend>
+      
+      <p> Leave a rating for me! </p>
+
+      <label for="reliability"> How Reliable was I? </label>
+      <select name="reliability" id="reliability">
+        <option value = "very-reliable">Very Reliable</option>
+        <option value = "reliable">Reliable</option>
+        <option value = "not-so-reliable">Not So Reliable</option>
+        <option value = "terrible">Terrible</option>
+      </select>
+
+            <label for="comprehension"> Was I easy to understand? </label>
+      <select name="comprehension" id="comprehension">
+        <option value = "absolutely">Absolutely!</option>
+        <option value = "yes">Yes</option>
+        <option value = "not-really">Not Really</option>
+        <option value = "no">No</option>
+      </select>
+
+      </select>
+    </fieldset>
+    <label for ="other-comments"> Anything else you'd like to comment</label>
+    <textarea name="other-comments" id="other-comments" cols="30" rows="10"></textarea>
+  </form>
+</body>
+</html>
