@@ -46,7 +46,7 @@ I haven't been updating this much as I have not been learning or working on HTML
 
 - Learned about HTML semantics
 - Learned how to make forms and tables
-
+- Also learned about accesibility (helps users with disability and allow access for all types of people)
 
 
 
