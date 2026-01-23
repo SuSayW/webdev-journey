@@ -42,6 +42,12 @@ UPDATE:
 
 I haven't been updating this much as I have not been learning or working on HTML and CSS. Unfortunately, I've been working on classwork for school and it has been taking a toll. However, I will make sure to update this sooner and continue from where I left off.
 
+-Day 6:
+
+- Learned about HTML semantics
+- Learned how to make forms and tables
+
+
 
 
 
