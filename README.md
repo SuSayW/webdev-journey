@@ -48,6 +48,12 @@ I haven't been updating this much as I have not been learning or working on HTML
 - Learned how to make forms and tables
 - Also learned about accesibility (helps users with disability and allow access for all types of people)
 
+-Day 7:
+
+- Practicing with lists and links
+- Learned about link-style property
+- Created a "To-Play List"
+- Also learned about background gradient and the syntax 
 
 
 
