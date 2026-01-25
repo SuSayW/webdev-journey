@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(10, 25, 47);
+}
+
+.container{
+  background-color: rgb(107, 114, 128);
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 9px;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+.games{
+  list-style-type: none;
+}
+
+ul{
+  padding: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+li{
+  background-color: white;
+  border-radius: 6px;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.sublist{
+  margin: 20px;
+}
