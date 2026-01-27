@@ -66,7 +66,7 @@ Day 9:
 
 (I Will be changing the format of the following days of this dev-log. It will be in a format including: The Date, What I learned, Problems/Challenges that occured, and other revelant things)
 
-1/27/2008
+1/27/2026
 
 What I've Learned:
 
