@@ -42,23 +42,44 @@ UPDATE:
 
 I haven't been updating this much as I have not been learning or working on HTML and CSS. Unfortunately, I've been working on classwork for school and it has been taking a toll. However, I will make sure to update this sooner and continue from where I left off.
 
--Day 6:
+Day 6:
 
 - Learned about HTML semantics
 - Learned how to make forms and tables
 - Also learned about accesibility (helps users with disability and allow access for all types of people)
 
--Day 7:
+Day 7:
 
 - Practicing with lists and links
 - Learned about link-style property
 - Created a "To-Play List"
 - Also learned about background gradient and the syntax 
 
--Day 8:
+Day 8:
 
--Dove deeper into absolute and relative units
+- Dove deeper into absolute and relative units
 - Learned about absolute units such as px, cm, mm
 - Learned about relative units such as em(based on parent's font size), rem(based on root element's font size), percentages(based on parent's dimensions).
 - Created a fictional flyer (in day 8 folder)
+
+Day 9:
+
+(I Will be changing the format of the following days of this dev-log. It will be in a format including: The Date, What I learned, Problems/Challenges that occured, and other revelant things)
+
+1/27/2008
+
+What I've Learned:
+
+- I dove deeper into psuedo-classes such as :hover, :active, :visited, etc..
+- I learned about psuedo-elements such as ::after(adding content after element), ::before(adding content before element), etc...
+- Created a happy birthday card(will be added today 9 folder)
+
+  
+Problems/Challenges:
+
+- I still suck with units of measurements and such, however, I am starting to understand and master selectivity and psuedo-classes.
+
+Other:
+
+- I also touched on the transition and transform property.
 
