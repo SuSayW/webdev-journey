@@ -55,5 +55,10 @@ I haven't been updating this much as I have not been learning or working on HTML
 - Created a "To-Play List"
 - Also learned about background gradient and the syntax 
 
+-Day 8:
 
+-Dove deeper into absolute and relative units
+- Learned about absolute units such as px, cm, mm
+- Learned about relative units such as em(based on parent's font size), rem(based on root element's font size), percentages(based on parent's dimensions).
+- Created a fictional flyer (in day 8 folder)
 
