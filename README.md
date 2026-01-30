@@ -83,3 +83,20 @@ Other:
 
 - I also touched on the transition and transform property.
 
+Day 10:
+
+1/29/2008
+
+What I've Learned:
+
+- I practiced more psuedo classes working on a lab on freecodecamp.org
+- With the guidance of freecodecamp, I was able to create a mini little job application form (can be seen in day 10 folders) *It is not an app, it is just a practice. All credits goes to freecodecamp.org*
+
+Problems/Challenges:
+- I was really taking a long time to apply pseudo classes to elements individually, however, I figured out you can just write them on the same line.
+- I didn't know how to change color of the label of a input type radio, however, with the assistant of AI, I was able to figure it out.
+
+Others:
+-AI can be a very useful tool and I will be using it more often for teaching and assistance. 
+
+
