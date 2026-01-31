@@ -100,3 +100,20 @@ Others:
 -AI can be a very useful tool and I will be using it more often for teaching and assistance. 
 
 
+Day 11:
+
+
+1/30/2026
+
+What I've learned:
+
+- I practiced with some colors and forms.
+- Dove deeper into color theory and making websites like visually appealing
+- Created a issue-report form (can be found in day 11 folder) *lab from freecodecamp, it was practice*
+
+Problems/Challenges:
+- Color theory and making websites visually appealing takes time, and you need to know what kind of tone or feeling you want to set. 
+
+Other: 
+- Make sure to trust the process
+
