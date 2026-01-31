@@ -1,0 +1,49 @@
+body{
+  background:linear-gradient(45deg,#b6fbff, #83a4d4);
+  width: 100vw;
+  height: 100vh;
+  font-family: Tahoma;
+}
+.form-container{
+  background-color: white;
+  border-radius: 6px;
+  border: black solid 2px;
+  padding: 20px;
+  max-width: 500px;
+  min-width: 300px;
+  width: 80%;
+  margin: auto auto;
+}
+
+
+input, textarea{
+  width: 100%;
+  padding: 10px 5px 10px 5px;
+  font-size: 1.2rem;
+  margin: 12px 0 12px 0;
+  border-radius: 3px;
+}
+
+
+button{
+  background-color: rgb(204, 204, 249);
+  border: 2px solid black;
+border-radius:10px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: rgb(60, 49, 49);
+  height: 50px;
+  width: 30%;
+  margin: 0 auto;
+  display: block;
+}
+
+
+button:hover{
+  background-color: rgb(176, 176, 250);
+}
+
+
+button:active{
+  background-color: rgb(147, 147, 255);
+}
